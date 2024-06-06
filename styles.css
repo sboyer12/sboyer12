@@ -150,6 +150,7 @@ footer {
     margin-bottom: -25px;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
+    text-decoration: line-through;
 }
 
 .social-group {
