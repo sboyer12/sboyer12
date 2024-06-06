@@ -83,26 +83,42 @@ a {
     grid-column: span 2;
     background-color: #333333;
     margin: 0 350px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
 }
 
 .card-1 {
     background-color: #333333;
     margin: 0 0 10px 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
 }
 
 .card-2 {
     background-color: #333333;
     margin: 0 50px 10px 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
 }
 
 .card-3 {
     background-color: #333333;
     margin: 10px 0 0 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
 }
 
 .card-4 {
     background-color: #333333;
     margin: 10px 50px 0 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+
+.heading-three {
+    margin-top: 75px;
+    color: #ebeae6;
+    font-family: Helvetica, sans-serif;
 }
 
 /* grid stops */
