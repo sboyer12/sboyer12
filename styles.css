@@ -1,0 +1,96 @@
+/* Style Guide for the website */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #ebeae6;
+    font-family: Helvetica;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+}
+
+/* ordered list until stated otherwise */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+.home-button {
+    background-color: rgb(220, 144, 116);
+    color: black;
+    border-right: none;
+}
+
+a {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-right: 1px solid #bbbbbb;
+}
+
+/* list edits stop here */
+
+.top-title h1 {
+    font-family: Helvetica;
+    color: black;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 300px;
+}
+
+.top-title p {
+    margin: 0;
+}
+
+.top-title h5 {
+    margin-top: 280px;
+    margin-bottom: -300px;
+}
+
+/* Projects Page Style */
+
+.projects-page h1 {
+
+    font-family: Helvetica;
+    color: black;
+    opacity: 0.3;
+    margin-top: 300px;
+
+}
+
+/* Resume Page Style */
+
+.resume-page h1 {
+
+    font-family: Helvetica;
+    color: black;
+    opacity: 0.3;
+    margin-top: 300px;
+
+}
+
+/* Photography Page Style */
+
+.photography-page h1 {
+
+    font-family: Helvetica;
+    color: black;
+    opacity: 0.3;
+    margin-top: 300px;
+
+
+}
