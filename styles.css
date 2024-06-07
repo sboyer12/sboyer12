@@ -250,15 +250,3 @@ footer {
 
 
 }
-
-.main-photo-block {
-    display: block;
-    margin-left: 400px;
-    margin-right: 400px;
-    margin-top: 400px;
-    opacity: .7;
-}
-
-.photo-block {
-    margin-bottom: 200px;
-}
