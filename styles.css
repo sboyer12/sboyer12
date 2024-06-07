@@ -62,12 +62,16 @@ a {
 
 .top-title h6 {
     margin: 0;
-    margin-bottom: 500px;
+    margin-bottom: 350px;
 }
 
 .top-title h5 {
     margin-top: 280px;
     margin-bottom: -300px;
+}
+
+.scroll-down-index {
+    margin-bottom: 300px;
 }
 
 /* this is wehre the grid goes until it stops */
@@ -186,7 +190,7 @@ footer {
 
 /*footer ends */
 
-/* Projects Page Style */
+        /* Projects Page Style */
 
 .projects-page h1 {
 
@@ -208,7 +212,34 @@ footer {
 
 }
 
-/* Photography Page Style */
+
+
+                    /* Photography Page Style */
+
+#photo-page {
+        background: #333333;
+        font-family: Helvetica;
+        color: black;
+        text-align: center;
+        font-size: 20px;
+}
+
+#photo-header {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #ebeae6;
+}
+
+.photo-top a {
+    display: block;
+    color: #333333;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-right: 1px solid #bbbbbb;
+}
 
 .photography-page h1 {
 
@@ -218,4 +249,16 @@ footer {
     margin-top: 300px;
 
 
+}
+
+.main-photo-block {
+    display: block;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 400px;
+    opacity: .7;
+}
+
+.photo-block {
+    margin-bottom: 200px;
 }
